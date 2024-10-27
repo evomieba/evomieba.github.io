@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://evomieba.github.io/sitemap_index.evomieba
